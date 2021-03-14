@@ -1,4 +1,6 @@
- .header {
-    background-color: rgba(47, 110, 121, 0);
-    overflow: hidden;
-  }
+header {
+  padding: 40px;
+  text-align: center;
+  background: #13293d;
+  color: #fff;
+}
