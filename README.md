@@ -22,7 +22,7 @@ The link below should take you to my week 2 project to access all files.
 Link to github repository
 https://github.com/Yashemabeth/project_wk_2
 
-## link to deployed application  
+## Link to deployed application  
 https://yashemabeth.github.io/project_wk_2/
 
 
